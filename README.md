@@ -1,2 +1,2 @@
-# Data-Science-case-study-and-assignments-
+# Data-Science-Bike Sharing case Study-
 Bike Sharing case Study
